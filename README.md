@@ -14,3 +14,5 @@ This plugin will automatically process LESS-Files.
 4. Putt your style.less inside the assets/less folder.
 
 If some of these folders doesn't exist creat them first.
+
+http://bueroexit.github.io/kirby-lessphp
