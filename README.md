@@ -13,6 +13,6 @@ This plugin will automatically process LESS-Files.
 3. Call the snippet with 	<?php snippet('less') ?>.
 4. Putt your style.less inside the assets/less folder.
 
-If some of these folders doesn't exist creat them first.
+If some of these folders doesn't exist create them first.
 
 http://bueroexit.github.io/kirby-lessphp
