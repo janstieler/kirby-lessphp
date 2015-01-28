@@ -15,4 +15,6 @@ This plugin will automatically process LESS-Files.
 
 If some of these folders doesn't exist create them first.
 
+I don't have tested it actually with Kirby 2 Version.
+
 http://janstieler.github.io/kirby-lessphp
