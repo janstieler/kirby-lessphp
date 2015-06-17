@@ -21,6 +21,9 @@ http://janstieler.github.io/kirby-lessphp
 
 ------
 A Version for Kirby2 von bartvandebiezen
+
 https://github.com/bartvandebiezen/kirby-v2-lessphp
+
 and for SCSS
+
 https://github.com/bartvandebiezen/kirby-v2-scssphp
