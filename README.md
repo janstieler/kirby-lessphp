@@ -18,3 +18,7 @@ If some of these folders doesn't exist create them first.
 I don't have tested it actually with Kirby 2 Version.
 
 http://janstieler.github.io/kirby-lessphp
+
+------
+A Version for Kirby2 von bartvandebiezen
+https://github.com/bartvandebiezen/kirby-v2-scssphp
